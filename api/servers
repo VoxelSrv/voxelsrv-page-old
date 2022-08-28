@@ -1,0 +1,46 @@
+{
+  "it's just a json": {
+	"icon": "undefined",
+    "name": "Hello traveler",
+    "motd": "Official auth/list servers are dead",
+    "software": "Static files",
+    "ip": "",
+    "players": {
+       "max": "¯",
+       "online": "¯\\_(ツ)_"
+    }
+  },
+ "it's just a json2": {
+	"icon": "undefined",
+    "name": "",
+    "motd": "If you want to talk or smth join discord",
+    "software": "",
+        "ip": "",
+    "players": {
+       "max": "¯",
+       "online": "¯\\_(ツ)_"
+    }
+  },
+"it's just a json3": {
+	"icon": "undefined",
+    "name": "",
+    "motd": "I really want to rebuild it at some point",
+    "software": "",
+    "ip": "",
+    "players": {
+       "max": "¯",
+       "online": "¯\\_(ツ)_"
+    }
+  },
+"it's just a json4": {
+	"icon": "undefined",
+    "name": "",
+    "motd": "maybe just less of a bad Minecraft-clone",
+    "software": "",
+    "ip": "",
+    "players": {
+       "max": "¯",
+       "online": "¯\\_(ツ)_"
+    }
+  }
+}
